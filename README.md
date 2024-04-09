@@ -120,10 +120,11 @@ See [here](https://jlperla.github.io/ECON408/index.html) for links to all materi
     - **References**:
       - [Asset Pricing I: Finite State Models](https://julia.quantecon.org/multi_agent_models/markov_asset.html)
       - [Asset Pricing II: The Lucas Asset Pricing Model](https://julia.quantecon.org/multi_agent_models/lucas_model.html)
-27. **April 8th** - (Time Permitting) Rational Expectations Equilibrium with Firm Dynamics (and the big-K, little-k trick)
-    - **Lecture Notes**: TBD
+27. **April 8th** - Rational Expectations Equilibrium with Firm Dynamics (and the big-K, little-k trick)
+    - **Lecture Notes**: [Rational Expectations and Markov Perfect Equilibrium](https://jlperla.github.io/ECON408/lectures/rational_expectations_markov_perfect_equilibrium.html)
     - **References**:
       - [Rational Expectations Equilibrium](https://julia.quantecon.org/multi_agent_models/rational_expectations.html)
+      - [Markov Perfect Equilibrium](https://julia.quantecon.org/multi_agent_models/markov_perf.html)
 28. **April 10th** - Finish Rational Expectations, Problem Set Review, and Final Questions
 
 
